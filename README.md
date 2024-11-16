@@ -13,3 +13,4 @@ Ex. "http://seu_servidor:3001/api/v1/workspace/seu_workspace/chat" ---- AUTH_TOK
 Obs2: Estruturar o projeto dentro das pastas correspondentes.
 
 Obs3.: LLm treinada com 830 livros em pdf sobre analise de dados alem de adição de saida de fonte de dados opensouce searxng.
+https://github.com/rbmeneses/Analisador-de-log/blob/main/Screenshot_15.png
