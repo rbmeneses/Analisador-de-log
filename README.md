@@ -41,7 +41,7 @@ O modelo Gemini pode ter dificuldades em analisar logs com formatos complexos (A
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar a ferramenta.
 
 Licença
-MIT License
+GPL-3.0 license
 
 Contato
 Ricardo B Meneses - rbmeneses@gmail.com
